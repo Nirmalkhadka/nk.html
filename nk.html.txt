@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flag</title>
+</head>
+<body>
+    <h1>Nirmal khadka</h1>
+    <p> roll no 201719 </p>
+    <p><i>click on flag to vist nepal website</i></p>
+<a href="https://en.wikipedia.org/wiki/Nepal"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/80px-Flag_of_Nepal.svg.png"</a>
+</body>
+</html>
